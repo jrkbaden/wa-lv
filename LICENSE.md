@@ -17,6 +17,11 @@ Diese Grafiken wurden von https://www.deviantart.com/milkian erstellt
 ## [Map-Team der rc3](https://git.cccv.de/rc3/world-tiles/), insbesondere [Mullana](https://git.cccv.de/mullana) unter CC-0
 * imgs/tilesheets/mapUtilities.png
 
+## [Chaosz0ne](https://github.com/chaosz0ne/) für wunderbare Inspirationen und folgende Tiles unter CC-BY-SA
+
+* imgs/signage/01_signage_jitsi
+* imgs/rk-zeug/01_sg-zelt
+
 ## cert.ccc.de Tilesets
 Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 * imgs/tilesheets/c3gelb.png
