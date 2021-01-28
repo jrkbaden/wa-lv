@@ -35,6 +35,10 @@ Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 * imgs/tilesheets/pipo_base
 * imgs/tilesheets/Pipoya_RPG_Tileset
 
+## [Liberated Pixel Cup (LPC)](https://lpc.opengameart.org/)
+
+* imgs/tilesheets/terrain_atlas.png (https://lpc.opengameart.org/content/lpc-tile-atlas)
+
 ## Audio
 https://www.salamisound.de/1020009-wasserhahn-am-handwaschbecken
 https://www.salamisound.de/7906156-toilettenspuelung
