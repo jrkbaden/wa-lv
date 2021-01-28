@@ -30,6 +30,10 @@ Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 * imgs/tilesheets/misc.jpg
 * imgs/tilesheets/storage.png
 
+## [Pipoya](https://pipoya.itch.io/) RPG Tileset
+
+* imgs/tilesheets/pipo_base
+* imgs/tilesheets/Pipoya_RPG_Tileset
 
 ## Audio
 https://www.salamisound.de/1020009-wasserhahn-am-handwaschbecken
