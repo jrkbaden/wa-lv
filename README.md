@@ -29,7 +29,7 @@
 	- Benutze am besten das Tile "EXIT" aus mapUtilities
 - Kollisionen: Eigentlich benötigt man dazu keine eigene Ebene, aber um es übresichtlich zu halten ist das auf jeden Fall empfohlen
         - Benutze am besten das Tile "BLOCK" aus mapUtilities
-	- Eigenschaft "collide" (Typ bool) muss für diese Kachel (!) gesetzt sein
+	- Eigenschaft "collides" (Typ bool) muss für diese Kachel (!) gesetzt sein
 	- Am besten unter den Boden platzieren, dann ist die Ebene nicht sichtbar
 - Jitsi-Räume:
 	- Layer-Eigenschaft "jitsiRoom" (Typ string) plus Raumname im String
