@@ -31,6 +31,26 @@ Diese Grafiken wurden von https://www.deviantart.com/milkian erstellt
 * from: https://opengameart.org/content/lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
 * Copyright/Attribution Notice: Credit goes 95% to Jetrel and the rest to Zabin, Hyptosis, and Surt and you must provide a link back to this submission.
 
+## wood_tilset
+https://opengameart.org/content/2d-lost-garden-tileset-transition-to-jetrels-wood-tileset
+Attribution Instructions: 
+Credit goes to Jetrel, Daniel Cook, Bertram and Zabin
+
+## trees_plants_rocks
+https://opengameart.org/content/lots-of-hyptosis-tiles-organized
+Attribution Instructions: 
+Hyptosis created everything, Zabin organized tiles, and the lamp fixture was created by Curt, Sharm, William.Thompsonj, & mold
+
+## medival_town
+https://opengameart.org/content/medieval-town-0
+Copyright/Attribution Notice: 
+by Keith Karnage
+
+## PathandObjects
+https://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects
+Attribution Instructions: 
+Credit goes to: Zabin, Daneeklu, Jetrel, Hyptosis, Redshrike, Bertram. A link back to this page "http://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects to see who did what"
+
 ## cert.ccc.de Tilesets
 Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 * imgs/tilesheets/c3gelb.png
