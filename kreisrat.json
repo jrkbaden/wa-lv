@@ -566,7 +566,7 @@
         {
          "columns":32,
          "firstgid":129,
-         "image":"tiles\/imgs\/baeume\/treepacknewest.png",
+         "image":"tiles\/imgs\/tilesheets\/treepacknewest.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -579,7 +579,7 @@
         {
          "columns":16,
          "firstgid":1153,
-         "image":"tiles\/imgs\/Schnee\/snowWIP.png",
+         "image":"tiles\/imgs\/tilesheets\/snowWIP.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
