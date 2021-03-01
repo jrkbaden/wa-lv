@@ -11,6 +11,10 @@ Großes Danke an die Crew von [TheCodingMachine](https://github.com/thecodingmac
 Diese Grafiken wurden von https://www.deviantart.com/milkian erstellt
 * imgs/tilesheets/tilesets_deviant_milkian_1.png
 
+## snow
+* https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-winter-theme-with-additions
+* Attribution Instructions: Daniel Cook, Jetrel, yd, and Zabin.
+
 ## dungeon Tileset
 * imgs/tilesheets/dungeon.png stammt von https://opengameart.org/content/dungeon-tileset-4 und ist public domain. Thanks to HorusKDI.
 
