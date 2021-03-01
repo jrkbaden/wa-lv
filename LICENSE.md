@@ -22,6 +22,11 @@ Diese Grafiken wurden von https://www.deviantart.com/milkian erstellt
 * imgs/signage/01_signage_jitsi
 * imgs/rk-zeug/01_sg-zelt
 
+## lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
+
+* from: https://opengameart.org/content/lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
+* Copyright/Attribution Notice: Credit goes 95% to Jetrel and the rest to Zabin, Hyptosis, and Surt and you must provide a link back to this submission.
+
 ## cert.ccc.de Tilesets
 Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 * imgs/tilesheets/c3gelb.png
