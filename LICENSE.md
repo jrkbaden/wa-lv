@@ -28,6 +28,7 @@ Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 * imgs/tilesheets/cert_safety.png
 * imgs/tilesheets/leipzig_messe.jpg
 * imgs/tilesheets/misc.jpg
+* imgs/tilesheets/npc.jpg
 * imgs/tilesheets/storage.png
 
 ## [Pipoya](https://pipoya.itch.io/) RPG Tileset
