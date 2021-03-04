@@ -121,7 +121,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"kreisrat.json#Park_Url_Schild_Baumstamm"
+                 "value":"kreisrat.json#Park_Start_Dachgeschoss"
                 }],
          "type":"tilelayer",
          "visible":true,
