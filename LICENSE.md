@@ -72,6 +72,9 @@ Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 https://www.salamisound.de/1020009-wasserhahn-am-handwaschbecken
 https://www.salamisound.de/7906156-toilettenspuelung
 
+## reveal,js
+contrib/reveal.js/ von https://github.com/hakimel/reveal.js, lizenziert unter der MIT License
+
 ## Unsere eigenen Grafiken
 Unsere selbst erstellten Dinge lizensieren wir als Badisches Jugendrotkreuz unter der CC-BY-SA
 
