@@ -11,6 +11,10 @@ Großes Danke an die Crew von [TheCodingMachine](https://github.com/thecodingmac
 Diese Grafiken wurden von https://www.deviantart.com/milkian erstellt
 * imgs/tilesheets/tilesets_deviant_milkian_1.png
 
+## snow
+* https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-winter-theme-with-additions
+* Attribution Instructions: Daniel Cook, Jetrel, yd, and Zabin.
+
 ## dungeon Tileset
 * imgs/tilesheets/dungeon.png stammt von https://opengameart.org/content/dungeon-tileset-4 und ist public domain. Thanks to HorusKDI.
 
@@ -21,6 +25,31 @@ Diese Grafiken wurden von https://www.deviantart.com/milkian erstellt
 
 * imgs/signage/01_signage_jitsi
 * imgs/rk-zeug/01_sg-zelt
+
+## lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
+
+* from: https://opengameart.org/content/lots-of-trees-and-plants-from-oga-db32-tilesets-pack-1
+* Copyright/Attribution Notice: Credit goes 95% to Jetrel and the rest to Zabin, Hyptosis, and Surt and you must provide a link back to this submission.
+
+## wood_tilset
+https://opengameart.org/content/2d-lost-garden-tileset-transition-to-jetrels-wood-tileset
+Attribution Instructions: 
+Credit goes to Jetrel, Daniel Cook, Bertram and Zabin
+
+## trees_plants_rocks
+https://opengameart.org/content/lots-of-hyptosis-tiles-organized
+Attribution Instructions: 
+Hyptosis created everything, Zabin organized tiles, and the lamp fixture was created by Curt, Sharm, William.Thompsonj, & mold
+
+## medival_town
+https://opengameart.org/content/medieval-town-0
+Copyright/Attribution Notice: 
+by Keith Karnage
+
+## PathandObjects
+https://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects
+Attribution Instructions: 
+Credit goes to: Zabin, Daneeklu, Jetrel, Hyptosis, Redshrike, Bertram. A link back to this page "http://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects to see who did what"
 
 ## cert.ccc.de Tilesets
 Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
@@ -43,6 +72,9 @@ Die folgenden Grafiken stammen vom c3CERT (cert.ccc.de):
 ## Audio
 https://www.salamisound.de/1020009-wasserhahn-am-handwaschbecken
 https://www.salamisound.de/7906156-toilettenspuelung
+
+## reveal,js
+contrib/reveal.js/ von https://github.com/hakimel/reveal.js, lizenziert unter der MIT License
 
 ## Unsere eigenen Grafiken
 Unsere selbst erstellten Dinge lizensieren wir als Badisches Jugendrotkreuz unter der CC-BY-SA
