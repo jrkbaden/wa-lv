@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jrk-baden.de\/wanderer\/"
+                 "value":"https:\/\/maps.wa.jrk-baden.de\/lv\/Beschriftungen\/baumstamm.html"
                 }],
          "type":"tilelayer",
          "visible":true,

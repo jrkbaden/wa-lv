@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Hinweis Übergang</title>
+
+		<link rel="stylesheet" href="../contrib/reveal.js//dist/reveal.css">
+		<link rel="stylesheet" href="../contrib/reveal.js//dist/theme/white.css" id="theme">
+
+        <link rel="stylesheet" href="../contrib/reveal.js//plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+
+                <!-- Slides are separated by three dashes (quick 'n dirty regular expression) -->
+                <section data-markdown data-separator="---">
+                    <script type="text/template">
+                        <!-- .slide: data-background="#009099" -->
+                        ## Wanderer
+                        Niemand kann wissen, wohin Dich der magische Baumstamm bringt, wenn Du durch ihn hindurch kriechst…
+                    </script>
+                </section>
+
+            </div>
+		</div>
+
+		<script src="../contrib/reveal.js//dist/reveal.js"></script>
+        <script src="../contrib/reveal.js//plugin/markdown/markdown.js"></script>
+        <script src="../contrib/reveal.js//plugin/highlight/highlight.js"></script>
+        <script src="../contrib/reveal.js//plugin/notes/notes.js"></script>
+
+		<script>
+
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+
+		</script>
+
+	</body>
+</html>
