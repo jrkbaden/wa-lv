@@ -6,7 +6,9 @@ import os
 BASE_DIR = 'imgs'
 COMPOSE_TILESHEETS = True
 TILESHEET_WIDTH = 512
+TILESHEET_MAX_WIDTH = 1024
 TILESHEET_HEIGTH = 2048
+TILESHEET_MAX_HEIGTH = 2048
 
 class Row():
     def __init__(self, width=TILESHEET_WIDTH, height=32):
@@ -62,7 +64,7 @@ if __name__ == "__main__":
         for file in files:
          if file.lower().endswith('.png'):
           x,y = Image.open(os.path.join(root, file)).size
-          if not(x % 32 == y % 32 == 0 and x <= TILESHEET_WIDTH):
+          if not(x % 32 == y % 32 == 0 and x <= TILESHEET_MAX_WIDTH):
               sys.exit("%s has wrong dimensions." % file)
 
 
