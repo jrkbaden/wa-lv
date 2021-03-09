@@ -123,6 +123,12 @@
          "id":76,
          "name":"Park_Start_Dachgeschoss",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
