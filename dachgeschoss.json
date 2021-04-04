@@ -20,6 +20,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"BesprechungDachgeschoss"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -56,6 +61,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/telko.drk-baden.de\/etherpad\/p\/workadventure-fehler?showControls=true&showChat=false&showLineNumbers=true&useMonospaceFont=false"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Du hast einen Fehler gefunden? Hier kannst Du ihn an die Pinnwand schreiben."
                 }],
          "type":"tilelayer",
          "visible":true,
